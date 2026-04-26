@@ -1,0 +1,10 @@
+{
+  "uuid": "63c89dac-9a4b-4115-a088-fac2e306d552",
+  "issue_uuid": "759251cc-2d5d-4af0-b207-f701cb9cb79c",
+  "author": "iWst",
+  "content": "Lifted all useAppStore / useEffect / useCallback calls above the state.phase early returns. Inside the now-unconditional validation effect and handleRefine, guard with state.phase !== 'ready' early return. Removed unused workerApi destructure (now state.workerApi accessed inline). 461/461 tests pass, tsc clean. HMR picked up the change.",
+  "created_at": "2026-04-26T14:12:20.910056237Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAL6TnmjlQSN11uG8/ZCiYQbKs4ww81WQqhA/KL/+bsbqY20tP4QshvHhGqunGJbPZ6/y0J12/AFelynhWTJA3Bw=="
+}
