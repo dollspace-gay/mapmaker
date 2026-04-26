@@ -1,0 +1,10 @@
+{
+  "uuid": "82bc5dc7-2a11-4337-8f2c-636b5a02786b",
+  "issue_uuid": "8b73dfed-d162-45c9-a907-fc618887ff0e",
+  "author": "iWst",
+  "content": "M12 complete via 2-round pattern. Round 1 (qCGG-BMHa) committed pipeline profiler (7685914) then stalled. Round 2 (qCGG-wzNC) delivered all 6 remaining optimizations in clean per-task commits: 1ebaa4c tile-based erosion kernel (workgroup shared memory for Laplacian), 68be2bc flow accumulation tuning (reduce GPU readback frequency), 7f0ca26 climate early convergence (skip iterations when GCM stable), fb6ef84 chunked snapshot transfer (60fps at level 9+), 7b3f04a f16 snapshot compression (halves IDB storage for bounded fields), a35e567 perf regression test suite (20 new tests). Total 461/461 tests pass. tsc clean. Closing M12. v1 SHIP READY.",
+  "created_at": "2026-04-26T12:57:27.890478981Z",
+  "kind": "result",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAxKwsKt+EHl2DFxUSotXCcYsTLB0giXEyN+oua38+n//V8gumrymzGXcz89WG9WcE4KVzqX1FzrKIN1Ah8pdiDA=="
+}
