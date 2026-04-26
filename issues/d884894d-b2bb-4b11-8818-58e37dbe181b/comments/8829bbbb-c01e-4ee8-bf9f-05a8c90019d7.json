@@ -1,0 +1,8 @@
+{
+  "uuid": "8829bbbb-c01e-4ee8-bf9f-05a8c90019d7",
+  "issue_uuid": "d884894d-b2bb-4b11-8818-58e37dbe181b",
+  "author": "jfds",
+  "content": "Committed: Add M7 refinement core: types, sampling, noise, flow constraints, pipeline [CL-9] | Files: 7 files changed, 986 insertions(+)",
+  "created_at": "2026-04-26T10:23:28.121980235Z",
+  "kind": "result"
+}
