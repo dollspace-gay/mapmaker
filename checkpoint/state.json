@@ -46,6 +46,10 @@
     "11": {
       "agent_id": "0Ysk",
       "claimed_at": "2026-04-26T11:56:25.541570795Z"
+    },
+    "12": {
+      "agent_id": "3snX",
+      "claimed_at": "2026-04-26T11:57:56.696747958Z"
     }
   },
   "issues": {},
@@ -304,11 +308,16 @@
       "agent_id": "iWst",
       "agent_seq": 27,
       "timestamp": "2026-04-26T11:57:21.207142948Z"
+    },
+    {
+      "agent_id": "3snX",
+      "agent_seq": 1,
+      "timestamp": "2026-04-26T11:57:56.696747958Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-04-26T11:57:21.207142948Z",
-    "agent_id": "iWst",
-    "agent_seq": 27
+    "timestamp": "2026-04-26T11:57:56.696747958Z",
+    "agent_id": "3snX",
+    "agent_seq": 1
   }
 }
