@@ -1,0 +1,10 @@
+{
+  "uuid": "a7634c47-8bc1-4cab-93f0-4bddcf432bb4",
+  "issue_uuid": "4645a0c5-b070-400a-a8bf-6773b6226498",
+  "author": "iWst",
+  "content": "Committing design docs (design.md and .design/) to main so kickoff worktrees inherit them. Pipeline is clean, M0 merged, hook-config restored. About to launch M1 Tectonics.",
+  "created_at": "2026-04-26T07:13:57.844701388Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA9GG+MtXU0+stE18ZCMl7V//ahWUjXsvBz5THp85TsriEh+/YM5rfWU8vlr+SVXuvKOTzkbVit4Np2GQ7YugmDg=="
+}
