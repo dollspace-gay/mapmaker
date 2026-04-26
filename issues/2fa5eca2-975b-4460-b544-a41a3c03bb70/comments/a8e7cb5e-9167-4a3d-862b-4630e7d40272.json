@@ -1,0 +1,8 @@
+{
+  "uuid": "a8e7cb5e-9167-4a3d-862b-4630e7d40272",
+  "issue_uuid": "2fa5eca2-975b-4460-b544-a41a3c03bb70",
+  "author": "njyk",
+  "content": "Plan: 6 commit groups following M3 pattern. (1) temperature.ts + temperature.wgsl + tests. (2) ocean.ts + ocean_currents.wgsl + tests. (3) orographic.ts + precipitation.wgsl + tests. (4) climate pipeline.ts + index.ts + tests. (5) biomes whittaker.ts + biome_classify.wgsl + index.ts + soilFertility + tests. (6) Worker integration + Globe.tsx layer toggles.",
+  "created_at": "2026-04-26T09:09:56.598814111Z",
+  "kind": "plan"
+}
