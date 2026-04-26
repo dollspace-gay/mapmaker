@@ -1,1 +1,2 @@
 {"agent_id":"iEJH","agent_seq":1,"timestamp":"2026-04-26T09:32:16.384282296Z","event":{"type":"LockClaimed","issue_display_id":7}}
+{"agent_id":"iEJH","agent_seq":2,"timestamp":"2026-04-26T09:41:43.167792728Z","event":{"type":"LockReleased","issue_display_id":7}}
