@@ -1,0 +1,10 @@
+{
+  "uuid": "2b50d2b3-58a4-4abc-8377-232a2ab7226c",
+  "issue_uuid": "52063620-4225-4ddd-a8e2-523283435425",
+  "author": "iWst",
+  "content": "GPU bug fix: switched all DataTextures from FloatType → HalfFloatType. Most GPUs silently fall back to NEAREST sampling on FloatType textures because OES_texture_float_linear isn't always enabled — this was making the browser show hex cell-frequency content while my offline render (which always uses bilinear) showed smooth procedural surface. HalfFloatType has universal linear-filter support. Browser should now match offline iter11-sphere appearance.",
+  "created_at": "2026-04-26T21:18:11.131238931Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAyaTNtACrnqubxQK/8L5TPRxKUWkQxASz3uKMzLv4SSm8VIf7LadbqFAo3Iewk+9ELn7LU3JOvUL13mxGXbePDg=="
+}
