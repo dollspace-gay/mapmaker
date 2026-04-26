@@ -1,0 +1,10 @@
+{
+  "uuid": "56f8249b-bd6d-444c-b75a-a8d51f98fc54",
+  "issue_uuid": "4645a0c5-b070-400a-a8bf-6773b6226498",
+  "author": "iWst",
+  "content": "Plan agent completed gap analysis. 24 gaps identified (10 blocking, 14 advisory), 11 conflicts between original design.md and expanded spec, 71 estimated subtasks. Report at .design/realistic-planet-generator.plan.json. Critical M0-relevant findings: (B1/B2) no scaffolding exists — full WebGPU infra to build from scratch; (B5) COOP/COEP headers required for SharedArrayBuffer in Vite config; (B7) mesh-type abstraction must be designed in M0 not retrofitted at M7 — kernels need to run unchanged on global icosahedron AND level-10 clipped subset; (B4) request maxStorageBufferBindingSize near 2 GiB to fit level 10. (C3) flow accumulation will need to be GPU not CPU — pre-M3 decision, but worth flagging architecturally now. Launching M0 implementation agent next.",
+  "created_at": "2026-04-26T06:05:09.049402034Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA1ZdAt11x39zYRTXcgSNvW14JpHzifq689yYLaKx5SMQ1+Tphv3nRx1sRJNhqV7yOb+S8r8P+I7sBQtTqyy3FBA=="
+}
