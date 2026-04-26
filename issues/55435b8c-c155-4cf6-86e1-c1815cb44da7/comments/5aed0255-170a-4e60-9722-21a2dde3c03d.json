@@ -1,0 +1,10 @@
+{
+  "uuid": "5aed0255-170a-4e60-9722-21a2dde3c03d",
+  "issue_uuid": "55435b8c-c155-4cf6-86e1-c1815cb44da7",
+  "author": "iWst",
+  "content": "M11 complete. 441/441 tests pass (21 new for M11). tsc clean. 8 clean per-component commits (c030b75 store + 786f395 etymology + dc65ef4 timeline + dfdc544 polity browser + d3b91f3 religion inspector + a460cad culture inspector + 8d74906 settlement detail + aa863d5 container/App integration). Agent ran tsc between every commit. Excellent autonomous run. Closing M11. M12 perf pass next.",
+  "created_at": "2026-04-26T12:21:13.447634113Z",
+  "kind": "result",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABASh8BaNltTAUo2+U5Tpt0dvzoYAv9v4mFKZ7+gsTPK1OAdpceDKt2U+JwdBtnQqU8N9LWJhJtfm5NcYCQP6BYCw=="
+}
