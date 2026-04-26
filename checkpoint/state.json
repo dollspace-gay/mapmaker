@@ -42,6 +42,10 @@
     "10": {
       "agent_id": "fDhc",
       "claimed_at": "2026-04-26T11:09:45.747828589Z"
+    },
+    "11": {
+      "agent_id": "0Ysk",
+      "claimed_at": "2026-04-26T11:56:25.541570795Z"
     }
   },
   "issues": {},
@@ -285,11 +289,16 @@
       "agent_id": "0Ysk",
       "agent_seq": 2,
       "timestamp": "2026-04-26T11:52:39.679974275Z"
+    },
+    {
+      "agent_id": "0Ysk",
+      "agent_seq": 3,
+      "timestamp": "2026-04-26T11:56:25.541570795Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-04-26T11:52:39.679974275Z",
+    "timestamp": "2026-04-26T11:56:25.541570795Z",
     "agent_id": "0Ysk",
-    "agent_seq": 2
+    "agent_seq": 3
   }
 }
