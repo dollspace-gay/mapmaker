@@ -1,0 +1,10 @@
+{
+  "uuid": "035c73d9-2f86-4aba-957b-054e41dbc9f2",
+  "issue_uuid": "d884894d-b2bb-4b11-8818-58e37dbe181b",
+  "author": "iWst",
+  "content": "M7 complete. 349/349 tests pass (43 new for M7: refinement 19, worker-integration 7, erosion-local 6, regionalStore 11). tsc --noEmit clean after supervisor cleanup commit (8eebb91) fixed 18 TS6133 unused params + 1 TS2304 missing regionalMesh in verifyOutletPreservation signature. Round 1 (3908f78 refinement core) + round 2 (5550e17 worker, 2a0ba3d UI, 3378908 App integration) + supervisor cleanup. Spherical level-10 regional refinement working with global drainage preservation per AC-16. Closing M7.",
+  "created_at": "2026-04-26T11:07:52.887050993Z",
+  "kind": "result",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAqBqSLqy5nRuaH+gNxuVtLCCMfNDQ0hPMMj7rlEz3GJQY0fdR/heg9CAMohwSlAAjqFzRvH7wxaO9DUnijqgjAA=="
+}
