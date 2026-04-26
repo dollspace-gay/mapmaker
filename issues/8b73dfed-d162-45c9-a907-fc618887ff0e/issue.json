@@ -7,5 +7,8 @@
   "priority": "high",
   "created_by": "iWst",
   "created_at": "2026-04-26T12:21:37.795554772Z",
-  "updated_at": "2026-04-26T12:21:37.795554772Z"
+  "updated_at": "2026-04-26T12:21:38.951422046Z",
+  "labels": [
+    "feature"
+  ]
 }
