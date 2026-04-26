@@ -1,0 +1,8 @@
+{
+  "uuid": "0533852a-4f0e-4ba7-b4a2-98b96e6074ec",
+  "issue_uuid": "8de90a31-fc2f-4eb1-ad7e-e1ca25963f69",
+  "author": "yn4Z",
+  "content": "Plan: M0 implementation — 8 subtasks. Scaffolding (Vite+React+TS), WebGPU device init with fallback, icosahedral mesh generator (levels 5-10), GPU buffer helpers, Web Worker+Comlink, globe rendering via react-three-fiber, mesh-type abstraction, COOP/COEP headers.",
+  "created_at": "2026-04-26T06:12:14.060906074Z",
+  "kind": "plan"
+}
