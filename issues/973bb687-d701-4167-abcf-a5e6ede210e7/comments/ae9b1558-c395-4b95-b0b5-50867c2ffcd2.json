@@ -1,0 +1,8 @@
+{
+  "uuid": "ae9b1558-c395-4b95-b0b5-50867c2ffcd2",
+  "issue_uuid": "973bb687-d701-4167-abcf-a5e6ede210e7",
+  "author": "0Ysk",
+  "content": "Result: M10 civilization extensions implemented — cultures (per-region traits from language+climate+biome), religions (pantheons, rituals, holy sites), polities (terrain-following borders), conflicts & history (procedural timeline). 34 new tests, all 420 pass, clean tsc. Commit 6189629.",
+  "created_at": "2026-04-26T11:52:34.762082328Z",
+  "kind": "result"
+}
