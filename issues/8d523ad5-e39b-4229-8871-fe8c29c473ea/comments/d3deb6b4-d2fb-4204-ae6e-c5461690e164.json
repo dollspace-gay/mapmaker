@@ -1,0 +1,8 @@
+{
+  "uuid": "d3deb6b4-d2fb-4204-ae6e-c5461690e164",
+  "issue_uuid": "8d523ad5-e39b-4229-8871-fe8c29c473ea",
+  "author": "aerV",
+  "content": "Plan: Implementing M6 Layer 2 painted constraints in 4 commit groups: (1) Constraint type system + typed interfaces; (2) Brush UI with click-drag/right-click-erase/esc-cancel/curve-mode; (3) 3-layer validation with overlays + suggestions; (4) Sim integration via setConstraints worker API + constraint overlays on globe.",
+  "created_at": "2026-04-26T09:56:55.219220723Z",
+  "kind": "plan"
+}
