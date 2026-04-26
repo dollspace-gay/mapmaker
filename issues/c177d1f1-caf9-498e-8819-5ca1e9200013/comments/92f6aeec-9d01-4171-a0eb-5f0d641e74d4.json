@@ -1,0 +1,8 @@
+{
+  "uuid": "92f6aeec-9d01-4171-a0eb-5f0d641e74d4",
+  "issue_uuid": "c177d1f1-caf9-498e-8819-5ca1e9200013",
+  "author": "66sj",
+  "content": "Plan: Continue M2 from 60a4e9e. Existing: erosion_step.wgsl, erosion/types.ts, hydrology/stub.ts. Will add: (1) glacial_step.wgsl + glacial.ts, (2) erosion/kernels.ts (WGSL loader following tectonics pattern), (3) erosion/pipeline.ts (iteration loop), (4) erosion/index.ts barrel, (5) worker.ts runErosion API, (6) Globe.tsx layer toggles, (7) appStore viewLayer expansion, (8) comprehensive tests. Commit after each major file.",
+  "created_at": "2026-04-26T08:08:06.416396273Z",
+  "kind": "plan"
+}
