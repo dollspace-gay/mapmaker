@@ -1,1 +1,2 @@
 {"agent_id":"wndI","agent_seq":1,"timestamp":"2026-04-26T10:41:37.546812138Z","event":{"type":"LockClaimed","issue_display_id":9}}
+{"agent_id":"wndI","agent_seq":2,"timestamp":"2026-04-26T10:41:38.955714134Z","event":{"type":"LockReleased","issue_display_id":9}}
