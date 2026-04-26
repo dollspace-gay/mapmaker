@@ -1,0 +1,10 @@
+{
+  "uuid": "ab5ec99f-51c9-4415-82bc-f1a0371af311",
+  "issue_uuid": "8d523ad5-e39b-4229-8871-fe8c29c473ea",
+  "author": "iWst",
+  "content": "M6 complete. 306/306 tests pass (33 new for M6: constraints/constraints.test 19, +14 in appStore for constraint slice). tsc clean. Agent followed M5 pattern with tmux nudge — 3 clean commits (b19bfed constraint type system, d91bea5 brush UI, 48a3786 worker+persistence+App integration). Layer 2 painted constraints fully working: 6 brush types, 3-layer validation (hard at paint with red/yellow overlays + suggestions, soft during sim, resolution hints), worker setConstraints API, IDB persistence. v0+constraints shippable. Closing M6.",
+  "created_at": "2026-04-26T10:17:37.152218983Z",
+  "kind": "result",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAxs+n3Lnk+anW541sZ5Qf0Hpe8C5Z1T0IJK+Hcn0clZTx2TZ8b0YrJyB+FT/WfAztqsJGPK4htNAnTxmH0w0pCQ=="
+}
