@@ -1,0 +1,8 @@
+{
+  "uuid": "a40e3006-a481-45c4-8a83-e15190a9340e",
+  "issue_uuid": "733e9781-2032-42ca-af73-ed5edcb5ab4e",
+  "author": "zI4e",
+  "content": "Plan: Implementing M1 plate tectonics - types, plates init, tectonic_step.wgsl, GPU dispatch, hotspots, CPU split/merge, invariant tests, worker integration, globe layers.",
+  "created_at": "2026-04-26T07:17:53.404805850Z",
+  "kind": "plan"
+}
