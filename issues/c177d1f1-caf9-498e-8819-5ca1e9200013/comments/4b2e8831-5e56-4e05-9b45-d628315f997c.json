@@ -1,0 +1,10 @@
+{
+  "uuid": "4b2e8831-5e56-4e05-9b45-d628315f997c",
+  "issue_uuid": "c177d1f1-caf9-498e-8819-5ca1e9200013",
+  "author": "iWst",
+  "content": "Partial M2 merged to main as 60a4e9e (erosion_step.wgsl + erosion/types.ts + hydrology/stub.ts). Launching continuation agent with tight scope: only the missing pieces (glacial kernel, erosion pipeline iteration, worker integration, layer toggles, tests). Continuation agent will branch from main HEAD and not redo what's already there.",
+  "created_at": "2026-04-26T08:05:58.752201879Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABARx98o9RYVgzgwvf9FDJ+VtPlf9SD4gL9ZlyUSEZvBmMfo/viozguIJwUCwy5BX+IcGeFlTKgNx1L/q6lh9CPBg=="
+}
