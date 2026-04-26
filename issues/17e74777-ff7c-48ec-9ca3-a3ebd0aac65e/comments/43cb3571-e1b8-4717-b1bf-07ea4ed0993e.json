@@ -1,0 +1,8 @@
+{
+  "uuid": "43cb3571-e1b8-4717-b1bf-07ea4ed0993e",
+  "issue_uuid": "17e74777-ff7c-48ec-9ca3-a3ebd0aac65e",
+  "author": "fDhc",
+  "content": "Result: M8 civilization base fully implemented - settlements (Poisson-disk on score field with 6 weighted components), trade routes (Dijkstra with terrain weights), language families (proper morphological grammar with phoneme inventories, syllable templates, morphological rules, per-family sound-change history). Worker API, Globe layer toggles, IDB persistence, 37 new tests all passing. 386 total tests, clean tsc.",
+  "created_at": "2026-04-26T11:20:53.517897133Z",
+  "kind": "result"
+}
