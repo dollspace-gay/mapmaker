@@ -1,0 +1,11 @@
+{
+  "uuid": "8b73dfed-d162-45c9-a907-fc618887ff0e",
+  "display_id": 13,
+  "title": "Add M12 performance pass: bring level 9 ultra-quality cold sim into AC-3 budget",
+  "description": "## M12 — Performance Pass (level 9 ultra → AC-3 budget)\n\nPer .design/realistic-planet-generator.md REQ-3 + AC-3, milestone definition. Builds on M0-M11 (main HEAD `aa863d5`). Last milestone before v1 ship-ready.\n\n### In scope\n\n1. **Profile current pipeline at level 8 + level 9** — identify hot loops in CPU-side bridge code.\n\n2. **Erosion kernel optimization** — tile-based with shared memory for the Laplacian could double speed (per design.md §8 priority #1).\n\n3. **Flow accumulation perf** — already GPU per M3 (Braun-Willett). Profile and tune.\n\n4. **Climate iteration** — reduce iteration count via better initial guess (use prior-step steady-state, not fresh init).\n\n5. **Snapshot streaming** — at level 9, snapshot reads chunk over multiple frames per AC-11 (was deferred). Implement chunked snapshot with backpressure.\n\n6. **GPU buffer compression** — for fields with bounded range, use f16 instead of f32. Halves memory for those.\n\n7. **Tests** — perf regression at level 8, snapshot chunking 60fps smoke, f16 accuracy within ε.\n\n### Out of scope (do not start)\n- New features.\n- VTT exports.\n\n### Acceptance criteria for M12\n- [ ] Level 9 ultra cold sim measurable improvement vs pre-M12 baseline.\n- [ ] Snapshot chunking implemented for level 9+; 60fps maintained per AC-13.\n- [ ] M0-M11 tests still pass.\n- [ ] npm test + tsc --noEmit both pass.\n- [ ] No stubs / TODOs.\n\n### Lesson from M0-M11\n**Commit each optimization separately, run tsc between commits.** M11 nailed this with 8 clean commits. M12 has 5-6 natural commit groups.\n\n### References\n- .design/realistic-planet-generator.md REQ-3 / AC-3 / AC-11 / AC-13\n- design.md §8 (optimization priorities)",
+  "status": "open",
+  "priority": "high",
+  "created_by": "iWst",
+  "created_at": "2026-04-26T12:21:37.795554772Z",
+  "updated_at": "2026-04-26T12:21:37.795554772Z"
+}
