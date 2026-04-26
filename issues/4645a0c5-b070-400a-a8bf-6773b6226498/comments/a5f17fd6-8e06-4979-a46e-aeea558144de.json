@@ -1,0 +1,10 @@
+{
+  "uuid": "a5f17fd6-8e06-4979-a46e-aeea558144de",
+  "issue_uuid": "4645a0c5-b070-400a-a8bf-6773b6226498",
+  "author": "iWst",
+  "content": "Restoring user's pre-M0 hook-config policy (top-level tracking_mode=relaxed, sentinel config, etc.) overwriting M0 agent's stricter default. M0 still on main as 01daaca; this is just preserving project policy customizations the user intended.",
+  "created_at": "2026-04-26T07:13:06.953484667Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABALvTtQf4/JuhXjca16Lfg/+3jFPJuhVU+bWOXOC91G5kivkT8qJ8MZf2ETrylADRJcPRwXnF5fS7tQZ+kqkONCg=="
+}
