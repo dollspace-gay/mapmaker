@@ -1,0 +1,24 @@
+{
+  "next_display_id": 1,
+  "next_comment_id": 1,
+  "display_id_map": {},
+  "locks": {
+    "1": {
+      "agent_id": "iWst",
+      "claimed_at": "2026-04-26T05:17:28.731300694Z"
+    }
+  },
+  "issues": {},
+  "unsigned_event_warnings": [
+    {
+      "agent_id": "iWst",
+      "agent_seq": 1,
+      "timestamp": "2026-04-26T05:17:28.731300694Z"
+    }
+  ],
+  "watermark": {
+    "timestamp": "2026-04-26T05:17:28.731300694Z",
+    "agent_id": "iWst",
+    "agent_seq": 1
+  }
+}
