@@ -1,0 +1,10 @@
+{
+  "uuid": "4ecaf3c3-e144-416f-9e9c-e5d88c704ebd",
+  "issue_uuid": "759251cc-2d5d-4af0-b207-f701cb9cb79c",
+  "author": "iWst",
+  "content": "Two more bugs found running the live UI: (1) Globe.tsx had a stray <sphereGeometry args={[0.99, 32, 32]} /> child of <points> that overwrote the constructed icosphere geometry — removed. (2) ControlPanel had no Run Simulation button anywhere — added a prominent green button at top-left that walks the worker through Tectonics → Erosion → Hydrology → Climate (GCM) → Biomes → Civilization with status updates per stage, then refreshes the snapshot to populate Globe with elevation/plate/temperature/precipitation/wind/biome/settlement/etc. Extended InitState to hold all sim outputs so Globe layer toggles work. 461/461 tests still pass, tsc clean.",
+  "created_at": "2026-04-26T14:18:20.966860631Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAA8d64osn0/WWraj+T+ICTcZQLbi/cmVIxb3TDoP7b9q1IPb4VjItQiBbu+SDa/ZfP3+R89IxTFkbi/mlhoBxBw=="
+}
