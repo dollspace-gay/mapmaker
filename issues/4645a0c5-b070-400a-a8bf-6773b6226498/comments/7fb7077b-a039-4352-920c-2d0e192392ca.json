@@ -1,0 +1,10 @@
+{
+  "uuid": "7fb7077b-a039-4352-920c-2d0e192392ca",
+  "issue_uuid": "4645a0c5-b070-400a-a8bf-6773b6226498",
+  "author": "iWst",
+  "content": "Design doc drafted: .design/realistic-planet-generator.md (17 requirements, 18 acceptance criteria, 8 open questions carried from source spec §12). Pipeline state initialized at .design/realistic-planet-generator.pipeline.json (stage=designed). Knowledge page: realistic-planet-generator (tag: design-doc). Ready for crosslink kickoff.",
+  "created_at": "2026-04-26T05:34:13.399637871Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAFfTXaP9dTE8RUwurNjD6VjPd8WHrhUeBwQYeDzg+07m3S4kp5chg0eWPGpr5VTbcAyxrEeSCjW0M+HyXah+rCg=="
+}
