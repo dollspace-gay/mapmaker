@@ -1,0 +1,10 @@
+{
+  "uuid": "5f0e3ced-96cd-490a-b371-14576f68a053",
+  "issue_uuid": "4645a0c5-b070-400a-a8bf-6773b6226498",
+  "author": "iWst",
+  "content": "Design doc revised: all 8 open questions resolved. Hardware target raised to RTX 3090 / 24GB VRAM / 64GB RAM; defaults now embrace 'expensive route' for max realism. Key resolutions: (Q1) mesh level 8 default global, level 10 regional refinement; (Q2) plate splits/merges enabled by default tuned to 3-5 events per 500 Myr; (Q3) full simplified GCM with 4-season cycle, ITCZ migration, monsoons; (Q4) morphological grammar engine with sound-change history (not Markov); (Q5) Foundry/Roll20 VTT exports DEFERRED to post-v1; (Q6) natural Casiquiare-style bifurcations modeled as physics; (Q7) spherical regional refinement (sphere-clipped subset, not planar); (Q8) full worldbuilding scope — settlements + trade + names + cultures + religions + polities + conflicts. Doc grew from 17 REQ / 18 AC to 19 REQ / 20 AC. New milestones: M9 (GCM), M10 (cultures/religions/polities/conflicts), M11 (worldbuilding browser UI), M12 (level-9 perf pass). Pipeline state hash updated. Knowledge page refreshed.",
+  "created_at": "2026-04-26T05:45:43.801102456Z",
+  "kind": "plan",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAM/kmpPjUV6wAmOQX0TttGAg2Iv4wnrj02Rgt/BEV5BLMyoK020QshRGl3qznUS1tOM1HN7pwinWrS6D53FTpCg=="
+}
