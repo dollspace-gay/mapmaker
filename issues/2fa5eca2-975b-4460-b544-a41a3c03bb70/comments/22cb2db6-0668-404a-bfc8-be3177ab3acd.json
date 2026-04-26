@@ -1,0 +1,8 @@
+{
+  "uuid": "22cb2db6-0668-404a-bfc8-be3177ab3acd",
+  "issue_uuid": "2fa5eca2-975b-4460-b544-a41a3c03bb70",
+  "author": "DgSy",
+  "content": "Plan: Implementing M4 climate in 6 commits, one per kernel+test group:\n1. Climate types + seasonal solar forcing + Coriolis\n2. GCM atmospheric model (2-layer advection)\n3. Temperature kernel (lapse rate + albedo)\n4. Ocean currents (gyre dynamics + SST)\n5. Orographic precipitation (upwind trace + rain shadow)\n6. Whittaker biomes + soil fertility + climate pipeline + worker integration\nAll CPU-side matching hydrology pattern. WGSL shaders are reference for future GPU.",
+  "created_at": "2026-04-26T08:45:59.940690791Z",
+  "kind": "plan"
+}
