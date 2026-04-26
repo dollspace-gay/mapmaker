@@ -1,0 +1,8 @@
+{
+  "uuid": "1216a7b1-352f-436d-9fbf-0e550f8ab62c",
+  "issue_uuid": "8b73dfed-d162-45c9-a907-fc618887ff0e",
+  "author": "Xdaj",
+  "content": "Plan: Implement 6 remaining M12 optimizations as separate commits: (1) Tile-based erosion kernel with workgroup shared memory for Laplacian stencil, (2) Flow accumulation tuning with batch topo-sort and skip redundant recomputes, (3) Climate iteration reduction via prior-step initial guess, (4) Chunked snapshot transfer for level 9+, (5) f16 GPU buffer compression for bounded fields, (6) Perf regression test suite.",
+  "created_at": "2026-04-26T12:46:57.975034699Z",
+  "kind": "plan"
+}
