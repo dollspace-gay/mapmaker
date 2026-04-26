@@ -1,0 +1,8 @@
+{
+  "uuid": "aa2ccb6b-3f26-45df-9673-0c7c2da40ced",
+  "issue_uuid": "d884894d-b2bb-4b11-8818-58e37dbe181b",
+  "author": "jfds",
+  "content": "Plan: Implement M7 in 4 commit groups: (1) refinement core - types, sampling, constraint enforcement, fractal noise, pipeline, (2) worker API - refineRegion method, (3) UI - region selector, regional 2D view, store slice, App integration, (4) comprehensive tests for AC-16 river preservation",
+  "created_at": "2026-04-26T10:19:52.386487115Z",
+  "kind": "plan"
+}
