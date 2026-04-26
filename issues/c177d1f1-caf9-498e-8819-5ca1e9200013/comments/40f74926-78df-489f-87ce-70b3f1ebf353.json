@@ -1,0 +1,8 @@
+{
+  "uuid": "40f74926-78df-489f-87ce-70b3f1ebf353",
+  "issue_uuid": "c177d1f1-caf9-498e-8819-5ca1e9200013",
+  "author": "ZD7b",
+  "content": "Plan: Implement M2 erosion — types, hydrology stub (CPU topo-sort, marked STUB for M3), WGSL kernels (erosion_step + glacial_step), TS kernel setup, coupled iteration pipeline, worker integration (runErosion), UI layer toggles (timeSinceUplift/bedrock/sediment), comprehensive tests. Key: snowline=4000-50*|lat|, default 200 sub-steps, dt=0.5Myr.",
+  "created_at": "2026-04-26T07:44:07.462828044Z",
+  "kind": "plan"
+}
