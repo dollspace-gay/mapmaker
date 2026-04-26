@@ -1,0 +1,8 @@
+{
+  "uuid": "81bece88-ecaf-4998-9f84-5bdcbaccb2e8",
+  "issue_uuid": "973bb687-d701-4167-abcf-a5e6ede210e7",
+  "author": "0Ysk",
+  "content": "Plan: Implement M10 in 5 commits: 1) cultures.ts — per-region cultural traits, 2) religions.ts — pantheons/deities/rituals/holy sites, 3) polities.ts — state formation + terrain borders, 4) conflicts.ts + history.ts — procedural conflict log, 5) Pipeline integration + Globe layers + IDB persistence + tests. Each commit: tsc check first.",
+  "created_at": "2026-04-26T11:35:08.508534112Z",
+  "kind": "plan"
+}
