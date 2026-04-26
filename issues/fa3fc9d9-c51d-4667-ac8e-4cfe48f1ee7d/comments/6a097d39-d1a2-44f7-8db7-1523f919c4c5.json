@@ -1,0 +1,8 @@
+{
+  "uuid": "6a097d39-d1a2-44f7-8db7-1523f919c4c5",
+  "issue_uuid": "fa3fc9d9-c51d-4667-ac8e-4cfe48f1ee7d",
+  "author": "iEJH",
+  "content": "Result: M5 UI scaffolding complete. 6 commits, 1704 lines added. Zustand store with 23 Layer 1 params across 5 groups + 7 presets. Tabbed ControlPanel with slider/toggle/number controls, preset selector, 14-layer data toggle, export UI. IndexedDB persistence via idb (planet/preset CRUD + snapshot roundtrip). PNG export in 4 projections (equirectangular/Mercator/Robinson/orthographic), SVG export, GeoJSON + TopoJSON export. VTT exports deferred per REQ-14. All 273 tests pass, TypeScript clean.",
+  "created_at": "2026-04-26T09:41:31.524342265Z",
+  "kind": "result"
+}
