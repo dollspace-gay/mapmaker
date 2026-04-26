@@ -1,0 +1,8 @@
+{
+  "uuid": "00861dda-df17-42c2-8b68-d9a201e3bc7f",
+  "issue_uuid": "d884894d-b2bb-4b11-8818-58e37dbe181b",
+  "author": "wndI",
+  "content": "Plan: Three commit groups for M7 completion. Group 1: erosion-local.ts (CPU stream-power for regional mesh) + worker.ts refineRegion() API + worker integration tests. Group 2: appStore regional state slice + RegionSelector.tsx (lat/lon picker, bbox drag, polygon paint) + RegionalView.tsx (2D top-down with layer toggles + hex overlay). Group 3: App.tsx integration to switch Globe/RegionalView + UI tests. Key decision: local erosion uses CPU-side simplified stream-power since the refinement pipeline already runs hydrology on CPU.",
+  "created_at": "2026-04-26T10:44:29.810908261Z",
+  "kind": "plan"
+}
