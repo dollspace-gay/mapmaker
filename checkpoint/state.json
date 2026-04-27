@@ -54,6 +54,10 @@
     "13": {
       "agent_id": "Xdaj",
       "claimed_at": "2026-04-26T12:57:05.614491423Z"
+    },
+    "16": {
+      "agent_id": "iWst",
+      "claimed_at": "2026-04-27T01:43:15.320962300Z"
     }
   },
   "issues": {},
@@ -387,11 +391,16 @@
       "agent_id": "iWst",
       "agent_seq": 33,
       "timestamp": "2026-04-27T01:39:16.684929231Z"
+    },
+    {
+      "agent_id": "iWst",
+      "agent_seq": 34,
+      "timestamp": "2026-04-27T01:43:15.320962300Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-04-27T01:39:16.684929231Z",
+    "timestamp": "2026-04-27T01:43:15.320962300Z",
     "agent_id": "iWst",
-    "agent_seq": 33
+    "agent_seq": 34
   }
 }
