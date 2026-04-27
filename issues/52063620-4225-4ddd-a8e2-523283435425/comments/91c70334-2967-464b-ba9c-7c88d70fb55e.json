@@ -1,0 +1,10 @@
+{
+  "uuid": "91c70334-2967-464b-ba9c-7c88d70fb55e",
+  "issue_uuid": "52063620-4225-4ddd-a8e2-523283435425",
+  "author": "iWst",
+  "content": "Session auto-ended (stale after 299 minutes). No handoff notes provided.",
+  "created_at": "2026-04-27T01:39:18.448141183Z",
+  "kind": "handoff",
+  "signed_by": "SHA256:iudVjChgM8+jUe5pwS4vyKpPLOj8bj/J7VejCGwB1/w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg+LNPXhQ35nkJ647KhsMR3FG264tb6BQXGij3ykJfFnoAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAYNgOQ7mrcCQIRbexLF9Bcqs9R4TF0pWX6dltkpE6KlcBL0uZvEWk4f2xCNdqzupaG72nh3YSvNEG8wNT/A4+Cg=="
+}
