@@ -6,5 +6,8 @@
   "priority": "high",
   "created_by": "iWst",
   "created_at": "2026-04-27T01:43:11.015233065Z",
-  "updated_at": "2026-04-27T01:43:11.015233065Z"
+  "updated_at": "2026-04-27T01:43:12.167660253Z",
+  "labels": [
+    "bug"
+  ]
 }
